@@ -1,4 +1,4 @@
-Freq (Hz),Temp (K),bloco,Temp,Freq,Modulo Real (MPa),Modulo Imaginario (Mpa),Fator de Perda (Mpa)
+Freq (Hz),Temp (K),bloco,Temp,Freq,Modulo Real (MPa),Modulo Imaginario (MPa),Fator de Perda
 0.1,233,B1,T1,F1,1267.9979,351.56351,0.27737
 0.1,233,B2,T1,F1,1026.2822,335.33243,0.32642
 0.1,233,B3,T1,F1,1504.0133,408.77591,0.27183
